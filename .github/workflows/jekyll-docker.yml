@@ -6,7 +6,7 @@
   <title>Whitelist Key Generator</title>
   <style>
     body {
-      background-color: #111;
+      background-color: #fff;
       color: #fff;
       font-family: Arial, sans-serif;
       display: flex;
